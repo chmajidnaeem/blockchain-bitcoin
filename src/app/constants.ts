@@ -1,0 +1,2 @@
+export const DEFAULT_SLIPPAGE = 0.5;
+export const ESTIMATED_GAS_FEE_OFFSET = 0.0001;
