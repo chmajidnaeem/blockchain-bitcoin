@@ -1,4 +1,3 @@
-
 # Getting Started
 
 # Project Overview 
@@ -7,7 +6,7 @@
 Blockchain SDK with Transak in Next.js
 This project is a Next.js application that integrates a blockchain SDK and Transak for managing cryptocurrency transactions. The platform allows users to perform crypto transactions easily, using Transak’s fiat-to-crypto on-ramp solution.
 ![Project snip 1](image1.png)
-![Project snip 2](imaga2.png)
+![Project snip 2](image2.png)
 ![Project snip 2](image3.png)
 
 
@@ -27,11 +26,7 @@ Open http://localhost:3000 in your browser to see the application in action.
 
 🔧 Commands
 •	Development: npm run dev
-🛠️ Technology Stack
+🛠 Technology Stack
 •	Next.js for server-side rendering
 •	TypeScript for type safety and improved tooling
-•	Tailwind CSS for responsive and efficient styling
-
-
-
-
+•	Tailwind CSS for responsive and efficient styling
